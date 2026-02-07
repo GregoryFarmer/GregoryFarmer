@@ -3,8 +3,9 @@ console.log("Hello, world! 👋")
 ```
 > [!NOTE]
 > Welcome to my GitHub profile!
-> I am a Computer Science: Data Science student from the University of Tennessee @ Chattanooga. I have 10 years of *freelance* Node.js programming experience as of February 2026. Yes, I started programming from a very young age: pretty cool, right? I
-> mostly specialize in backend-side of websites (express.js my beloved), but I also am not too far off of frontend either (EJS layouts, also my beloved). 
+> * I am a Computer Science: Data Science student/graduate from the University of Tennessee @ Chattanooga.
+> * I have 10 years of *freelance* Node.js programming experience as of February 2026 (yes, I started programming from a very young age: pretty cool, right?)
+> * I mostly specialize in backend-side of websites (express.js my beloved), but I also am not too far off of frontend either (EJS layouts, also my beloved). 
 ```js
 console.log("Where can I be found? 🤔")
 ```
