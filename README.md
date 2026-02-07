@@ -2,7 +2,7 @@
 console.log("Hello, world! 👋")
 ```
 > [!NOTE]
-> Welcome to my GitHub profile! I am a Computer Science: Data Science student from the University of Tennessee @ Chattanooga. I have 10 years of *freelance* Node.js programming experience as of February 2026. Yes, I started from a very young age: pretty cool, right? I
+> Welcome to my GitHub profile! I am a Computer Science: Data Science student from the University of Tennessee @ Chattanooga. I have 10 years of *freelance* Node.js programming experience as of February 2026. Yes, I started programming from a very young age: pretty cool, right? I
 > mostly specialize in backend-side of websites (express.js my beloved), but I also am not too far off of frontend either (EJS layouts, also my beloved). 
 ```js
 console.log("Where can I be found? 🤔")
@@ -12,3 +12,5 @@ console.log("Where can I be found? 🤔")
 > * [My LinkedIn, for any recruiters who stumbled upon my GitHub profile](https://www.linkedin.com/in/gregorymfarmer/) - although I currently have this hibernated
 > * For anyone else wanting to get in contact, you can get in touch through my [email](mailto:gregorymfarmer@gmail.com) 
 
+> [!CAUTION]
+> *This section is very evil*
