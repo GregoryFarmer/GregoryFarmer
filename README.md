@@ -13,6 +13,3 @@ console.log("Where can I be found? 🤔")
 > * [My website, for resumes and professional information](https://www.gregorymfarmer.com/) - *pssst*, I also have the source code public [here](https://github.com/GregoryFarmer/portfolio). 
 > * [My LinkedIn, for any recruiters who stumbled upon my GitHub profile](https://www.linkedin.com/in/gregorymfarmer/) - although I currently have this hibernated
 > * For anyone else wanting to get in contact, you can get in touch through my [email](mailto:gregorymfarmer@gmail.com) 
-
-> [!CAUTION]
-> *This section is very evil*
