@@ -1,4 +1,4 @@
-> [!INFO]
+> [!NOTE]
 > Some information goes here
 
 ```js
