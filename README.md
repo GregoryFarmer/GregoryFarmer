@@ -11,7 +11,7 @@ You can get into contact with me through [my website](https://www.gregorymfarmer
   > ![Gregory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GregoryFarmer&show_icons=true&theme=react)
 >  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryFarmer&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-> [!NOTE]
+> [!NOTE]\
 > The above statistics only show _public_ repositories. They do not reflect my private repositories, which I have far more of!
 </details>
 
