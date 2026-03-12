@@ -7,4 +7,7 @@
 You can get into contact with me through [my website](https://www.gregorymfarmer.com/) or by [emailing me](mailto:gregorymfarmer@gmail.com)!
 
 
+
 ![Gregory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GregoryFarmer&show_icons=true&theme=react)
+> ![NOTE]
+> I don't really use GitHub that much.
