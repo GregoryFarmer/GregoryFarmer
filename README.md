@@ -5,3 +5,6 @@
 
 # Get in contact with me!
 You can get into contact with me through [my website](https://www.gregorymfarmer.com/) or by [emailing me](mailto:gregorymfarmer@gmail.com)!
+
+
+[![Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregoryFarmer)](https://github.com/anuraghazra/github-readme-stats)
