@@ -1,6 +1,4 @@
-TBD
-
 # Languages
 [![My Languages](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,lua,java,python)](https://skillicons.dev)
-# Operating System Platforms
+# Operating Systems
 [![My Platforms](https://skillicons.dev/icons?i=raspberrypi,windows,linux)](https://skillicons.dev)
