@@ -1,6 +1,6 @@
 | Languages | Tools & Platforms | Operating Systems |
 | --- | --- | --- |
-| [![My Languages](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,lua,java,python)](https://skillicons.dev) | [![Tools & Platforms](https://skillicons.dev/icons?i=blender,vscode,unity,expressjs,netbeans)](https://skillicons.dev) | [![Operating Systems](https://skillicons.dev/icons?i=raspberrypi,windows,arch,linux)](https://skillicons.dev) |
+| [![My Languages](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,lua,java,python)](https://skillicons.dev) | [![Tools & Platforms](https://skillicons.dev/icons?i=npm,github,blender,vscode,unity,expressjs,unreal,unity,electron,obsidian,mongodb,git,discord,discordjs)](https://skillicons.dev) | [![Operating Systems](https://skillicons.dev/icons?i=raspberrypi,windows,arch,linux)](https://skillicons.dev) |
 
 # Get in contact with me!
 You can get into contact with me through [my website](https://www.gregorymfarmer.com/) or by [emailing me](mailto:gregorymfarmer@gmail.com)!
