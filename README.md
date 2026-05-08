@@ -8,6 +8,8 @@ You can get into contact with me through [my website](https://www.gregorymfarmer
 # GitHub Summary
 <details>
   <summary>View my GitHub stats!</summary>
+  [![Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregoryFarmer)]
+
 </details>
 
 # Note:
