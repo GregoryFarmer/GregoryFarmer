@@ -1,4 +1,5 @@
 # Hello!
+Welcome to my GitHub profile! This is where I will store most of my coding projects, from full-on websites to single scripts! Feel free to lurk through my repositories to see if there is something you may like!
 
 | Languages | Tools & Platforms | Operating Systems |
 | --- | --- | --- |
